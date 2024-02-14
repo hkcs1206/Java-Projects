@@ -1,2 +1,2 @@
 # Java-Projects
-Learning Java Developement
+Learning Java Development
